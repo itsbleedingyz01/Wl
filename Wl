@@ -4,6 +4,6 @@ return {
     "kkfgmtil",
     "matheuspe98",
     "Novato_ichigos",
-    "ravyphyetro1",
+    "Ravyphyetro1",
     "xeguilherme"
 }
