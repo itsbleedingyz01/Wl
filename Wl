@@ -3,5 +3,7 @@ return {
     "MrMyersss1983",
     "kkfgmtil",
     "matheuspe98",
-    "Novato_ichigos"
+    "Novato_ichigos",
+    "ravyphyetro1",
+    "xeguilherme"
 }
