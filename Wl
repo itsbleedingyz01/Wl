@@ -2,5 +2,6 @@ return {
     "Maestrito24",
     "MrMyersss1983",
     "kkfgmtil",
-    "matheuspe98"
+    "matheuspe98",
+    "Novato_ichigos"
 }
